@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns:th="http://www.thymeleaf.org">
+<html xmlns:th="http://www.thymeleaf.org" xmlns:sec="http://www.thymeleaf.org/ extras/spring-security">
     <head>
         <title>TODO supply a title</title>
         <meta charset="UTF-8"/>
@@ -7,6 +7,10 @@
     </head>
     <body>
         <h1>Welcome to home </h1>
-        <a th:text="${user_name}"></a>
+        <p sec:authorize="isAuthenticated()">
+          <form th:action="@{/logout}" method="post">
+               <input type="submit" value="Sign Out"/>
+            </form> 
+        </p>
     </body>
 </html>

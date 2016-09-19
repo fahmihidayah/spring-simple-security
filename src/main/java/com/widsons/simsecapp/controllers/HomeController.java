@@ -24,9 +24,14 @@ public class HomeController {
     
     @RequestMapping(value = "/login")
     public ModelAndView login(ModelAndView modelAndView){
+<<<<<<< HEAD
+=======
+        
+>>>>>>> add-example-branch
         modelAndView.setViewName("login");
         return modelAndView;
     }
+    
     
 //    @RequestMapping(name = "/user/welcome")
 //    public String welcome(){
