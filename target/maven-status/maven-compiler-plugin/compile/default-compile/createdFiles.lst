@@ -1,0 +1,6 @@
+com/widsons/simsecapp/domains/UserAccount.class
+com/widsons/simsecapp/repositories/UserAccountRepository.class
+com/widsons/simsecapp/domains/Role.class
+com/widsons/simsecapp/SimpleSecureAppApplication.class
+com/widsons/simsecapp/domains/CustomUser.class
+com/widsons/simsecapp/controllers/HomeController.class

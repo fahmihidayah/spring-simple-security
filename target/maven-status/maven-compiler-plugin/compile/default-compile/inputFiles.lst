@@ -1,0 +1,11 @@
+/Users/fahmi/Documents/server/SimpleSecureApp/src/main/java/com/widsons/simsecapp/SecurityConfig.java
+/Users/fahmi/Documents/server/SimpleSecureApp/src/main/java/com/widsons/simsecapp/domains/CustomUser.java
+/Users/fahmi/Documents/server/SimpleSecureApp/src/main/java/com/widsons/simsecapp/domains/Role.java
+/Users/fahmi/Documents/server/SimpleSecureApp/src/main/java/com/widsons/simsecapp/domains/UserAccount.java
+/Users/fahmi/Documents/server/SimpleSecureApp/src/main/java/com/widsons/simsecapp/controllers/HomeController.java
+/Users/fahmi/Documents/server/SimpleSecureApp/src/main/java/com/widsons/simsecapp/SimpleSecureAppApplication.java
+/Users/fahmi/Documents/server/SimpleSecureApp/src/main/java/com/widsons/simsecapp/controllers/UserController.java
+/Users/fahmi/Documents/server/SimpleSecureApp/src/main/java/com/widsons/simsecapp/services/UserAccountService.java
+/Users/fahmi/Documents/server/SimpleSecureApp/src/main/java/com/widsons/simsecapp/repositories/UserAccountRepository.java
+/Users/fahmi/Documents/server/SimpleSecureApp/src/main/java/com/widsons/simsecapp/WebSecurityConfig.java
+/Users/fahmi/Documents/server/SimpleSecureApp/src/main/java/com/widsons/simsecapp/services/CustomUserDetailService.java
