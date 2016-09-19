@@ -24,10 +24,11 @@ public class HomeController {
     
     @RequestMapping(value = "/login")
     public ModelAndView login(ModelAndView modelAndView){
-       
+        
         modelAndView.setViewName("login");
         return modelAndView;
     }
+    
     
 //    @RequestMapping(name = "/user/welcome")
 //    public String welcome(){
